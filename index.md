@@ -1,3 +1,5 @@
+![Profile Image][profile_image.png]
+
 ---
 layout: profile
 # Set both of these to your name
