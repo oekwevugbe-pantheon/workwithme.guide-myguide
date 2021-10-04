@@ -1,4 +1,4 @@
-![Profile Image][profile_image.png]
+![Profile Image](profile_image.png)
 
 ---
 layout: profile
